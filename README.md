@@ -1,5 +1,5 @@
 # Hachimi Patcher
-- its's working for hachimi1.1.5(before)
+- its working for hachimi1.1.5(before)
 # How to use?
 - first double click this file
 - when you see the window launch the game
