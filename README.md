@@ -1,5 +1,5 @@
-# Hachimi THE ULTIMATE CHINESE BACKDOOR
-  ## THE BEST CHINA SHORELINE SKID OF ALL TIME
+# shoreline + mio skid (maybe some chinese backdoor included too)
+  ## chinese virus budle
 
 
 
